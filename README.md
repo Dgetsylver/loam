@@ -4,7 +4,7 @@ Build **composable**, **upgradeable**, **secure** Smart Contracts.
 
 Build frontends that interact easily with (your own or anyone's) Smart Contracts.
 
-Focus on the important parts of your [Soroban](https://soroban.stellar.org/) app. Let Loam handle the tedious bits.
+Focus on the important parts of your [Soroban](https://soroban.stellar.org/) / [Stellar](https://developers.stellar.org/) app. Let Loam handle the tedious bits.
 
 At a high level, Loam is comprised of three main components:
 
